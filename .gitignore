@@ -1,0 +1,32 @@
+# 本地下载、环境和完整实验输出
+/data/
+/models/
+/outputs/
+/.cache/
+/.conda/
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 本地工具配置和凭据
+/.agents/
+/.codex/
+/.aws/
+.env
+.env.*
+.DS_Store
+
+# 课程材料、提交文件和早期计划
+/PLAN.md
+*.docx
+*.pdf
+*.zip
+*.log
+
+# 权重和训练检查点
+*.safetensors
+*.pt
+*.pth
+*.ckpt
